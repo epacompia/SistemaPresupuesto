@@ -21,6 +21,7 @@ namespace SistemaPresupuesto.Controllers
         public IActionResult Privacy()
         {
             //comentario
+            //otro mas
             return View();
         }
 
