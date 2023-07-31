@@ -17,7 +17,7 @@ namespace SistemaPresupuesto.Controllers
             if (!ModelState.IsValid)
             {
                 return View(tipoCuenta);
-            }
+            } 
 
             return View() ;
         }
